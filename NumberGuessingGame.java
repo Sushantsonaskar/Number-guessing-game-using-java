@@ -1,3 +1,4 @@
+//author: sushant sonaskar
 import java.util.Random;
 import java.util.Scanner;
 
